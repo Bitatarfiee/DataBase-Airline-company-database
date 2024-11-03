@@ -1,6 +1,6 @@
 # airline-company-database-SQL
 
-# Description:
+## Description:
 - Modeling of flight booking database
 - EER implementation.
 - The Relational Model implementation
@@ -13,7 +13,7 @@
 
 
 
-# Files
+## Files
 1. EER_Flight_Booking.pdf
 2. RM_flight_Booking.pdf
 3. Procedures.sql
