@@ -1,4 +1,4 @@
-# airline-company-database-SQL
+# Airline-company-database-SQL
 
 ## Description:
 - Modeling of flight booking database
